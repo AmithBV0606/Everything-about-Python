@@ -30,6 +30,10 @@ python3 -m pip uninstall requests
 - Listing all the installed packages :
 ```bash
 python3 -m pip list
+
+# OR
+
+python3 -m pip freeze
 ```
 
 ### Virtual Environment : 
